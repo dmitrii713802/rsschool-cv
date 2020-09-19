@@ -10,5 +10,5 @@ Interested in developing high-quality web-applications with intresting solution 
 **Work experience**\
 **Education**\
 BSUIR, 4 course, Faculty of сomputer engineering, specialty programming mobile systems\
-**English level**\48554
+**English level**\
 Finished English courses(level pre-intermidiate), certificate with mark 8
